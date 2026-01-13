@@ -1,0 +1,1 @@
+# fricha01.github.io
