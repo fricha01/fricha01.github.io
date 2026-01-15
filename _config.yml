@@ -1,0 +1,31 @@
+title: "Franck RICHARD"
+subtitle: "Cours, TD et supports pédagogiques"
+email: "franck.richard@univ-poitiers.fr"
+description: "Site personnel pour cours de Maths et Sûreté"
+baseurl: "" # à laisser vide si tu ne déploies pas sur un sous-dossier
+url: "http://localhost:4000" # utile pour le développement local
+
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-feed
+
+include:
+  - _pages
+
+fontawesome: true
+
+author:
+  name: "Franck RICHARD"
+  avatar: "/assets/images/avatar.png"
+  bio: Enseignant-chercheur <br>
+    Université de Poitiers<br>
+    <br>
+        - Gestion des risques <br>
+        - Physique <br>
+        - Mathématiques Appliquées <br>
+      <br>
+       <i class="fas fa-envelope"></i>&nbsp;franck.richard@univ-poitiers.fr<br>
+        <i class="fas fa-phone"></i>&nbsp;06&nbsp;63&nbsp;73&nbsp;64&nbsp;16
+
+

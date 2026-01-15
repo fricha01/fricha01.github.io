@@ -1,0 +1,43 @@
+main:
+  - title: "Accueil"
+    url: /
+
+  - title: "Cours"
+    url: /cours/
+
+  - title: "Documents"
+    url: /docs/
+
+cours:
+  - title: "Accueil"
+    url: /
+
+  - title: "Mathématiques"
+    url: /maths/
+    children:
+      - title: "Introduction au calcul de probabilités"
+        url: /maths/proba/
+      - title: "Introduction à la statistiques"
+        url: /maths/stats/
+      - title: "Machine learning"
+        url: /maths/ml/
+
+  - title: "Sûreté de fonctionnement"
+    url: /surete/
+    children:
+      - title: "Analyse fonctionnelle"
+        url: /surete/af/
+      - title: "Arbre des défaillances"
+        url: /surete/arbre/
+      - title: "Analyse des Modes de Défaillance et de leurs Effets et de la Criticité (AMDEC)"
+        url: /surete/amdec/
+      - title: "Analyse dynamique"
+        url: /surete/ad/
+      - title: "Fiabilité des systèmes"
+        url: /surete/fiabilite/
+        
+  - title: "Qualité"
+    url: /qualite/
+    children:
+      - title: "Maitrise statistique des processus"
+        url: /surete/msp/
