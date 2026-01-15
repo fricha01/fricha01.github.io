@@ -8,6 +8,8 @@ sidebar:
 
 ## Cours
 
+- [Fiabilite des systèmes](../../assets/cours/sdf/fiabilite/fiabilite.pdf)
+
 ## TDs
 
-- [Télécharger le TD d'AF](../../assets/td/xxx.pdf)
+- [TD1 - exercices](../../assets/cours/sdf/fiabilite/td1_enonce.pdf)
