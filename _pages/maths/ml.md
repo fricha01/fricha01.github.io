@@ -8,7 +8,22 @@ sidebar:
 
 ## Cours
 
-## TDs
+<div style="margin-bottom:30px;">
+</div>
 
-- [TD1 K-means](../../assets/cours/maths/ml/td1_enonce.ipynb)
-- [TD2 K-means](../../assets/td/xxx.pdf)
+<strong> 👉 Kmeans : </strong> [<img src="../../assets/images/pdf.png"
+       alt="PDF"
+       style="position:absolute; left:135px; top:134px; width:30px;">](../../assets/cours/maths/ml/xxx.pdf){: .btn .btn}
+
+## Travaux Dirigés
+
+<div style="margin-bottom:30px;">
+</div>
+
+<strong> 👉 TD1-Kmeans : </strong> [<img src="../../assets/images/jupyter.png"
+       alt="PDF"
+       style="position:absolute; left:180px; top:292px; width:40px;">](../../assets/cours/maths/ml/td1_enonce.ipynb){: .btn .btn}
+
+<strong> 👉 TD2-Kmeans : </strong> [<img src="../../assets/images/jupyter.png"
+       alt="PDF"
+       style="position:absolute; left:180px; top:355px; width:40px;">](../../assets/cours/maths/ml/xxx.ipynb){: .btn .btn}

@@ -6,8 +6,24 @@ sidebar:
   nav: "cours"
 ---
 
-## Cours  
+## Cours
 
-## TD
+<div style="margin-bottom:30px;">
+</div>
 
-- [Télécharger le TD Probabilités](../../assets/td/xxx.pdf)
+<strong> 👉 Probabilités : </strong> [<img src="../../assets/images/pdf.png"
+       alt="PDF"
+       style="position:absolute; left:170px; top:134px; width:30px;">](../../assets/cours/maths/proba/xxx.pdf){: .btn .btn}
+
+## Travaux Dirigés
+
+<div style="margin-bottom:30px;">
+</div>
+
+<strong> 👉 TD1 : </strong> [<img src="../../assets/images/pdf.png"
+       alt="PDF"
+       style="position:absolute; left:90px; top:300px; width:30px;">](../../assets/cours/maths/proba/xxx.pdf){: .btn .btn}
+
+
+
+

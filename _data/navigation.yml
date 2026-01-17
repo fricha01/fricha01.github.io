@@ -36,8 +36,14 @@ cours:
       - title: "Fiabilité des systèmes"
         url: /surete/fiabilite/
         
+  - title: "Incendie"
+    url: /incendie/
+    children:
+      - title: "Introduction à la dynamique des incendies"
+        url: /incendie/fire/
+
   - title: "Qualité"
     url: /qualite/
     children:
       - title: "Maitrise statistique des processus"
-        url: /surete/msp/
+        url: /qualite/msp/
