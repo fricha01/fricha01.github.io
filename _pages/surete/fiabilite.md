@@ -13,7 +13,7 @@ sidebar:
 
 <strong> 👉 Fiabilité système : </strong> [<img src="../../assets/images/pdf.png"
        alt="PDF"
-       style="position:absolute; left:220px; top:134px; width:30px;">](../../assets/cours/sdf/fiabilite/xxx.pdf){: .btn .btn}
+       style="position:absolute; left:220px; top:134px; width:30px;">](../../assets/cours/sdf/fiabilite/fiabilite.pdf){: .btn .btn}
 
 ## Travaux Dirigés
 
@@ -22,7 +22,7 @@ sidebar:
 
 <strong> 👉 TD1 : </strong> [<img src="../../assets/images/pdf.png"
        alt="PDF"
-       style="position:absolute; left:90px; top:300px; width:30px;">](../../assets/cours/sdf/fiabilite/xxx.pdf){: .btn .btn}
+       style="position:absolute; left:90px; top:300px; width:30px;">](../../assets/cours/sdf/fiabilite/td1_enonce.pdf){: .btn .btn}
 
 <strong> 👉 TD2 : </strong> [<img src="../../assets/images/pdf.png"
        alt="PDF"
