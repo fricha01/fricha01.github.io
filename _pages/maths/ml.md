@@ -26,4 +26,8 @@ sidebar:
 
 <strong> 👉 TD2-Kmeans : </strong> [<img src="../../assets/images/jupyter.png"
        alt="PDF"
-       style="position:absolute; left:180px; top:355px; width:40px;">](../../assets/cours/maths/ml/xxx.ipynb){: .btn .btn}
+       style="position:absolute; left:180px; top:355px; width:40px;">](../../assets/cours/maths/ml/td2_enonce.ipynb){: .btn .btn}
+
+[<img src="../../assets/images/jupyter.png"
+       alt="PDF"
+       style="position:absolute; left:220px; top:292px; width:40px;">](../../assets/cours/maths/ml/td1_corrige.ipynb){: .btn .btn} 
