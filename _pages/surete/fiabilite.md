@@ -26,6 +26,6 @@ sidebar:
 
 <strong> 👉 TD2 : </strong> [<img src="../../assets/images/pdf.png"
        alt="PDF"
-       style="position:absolute; left:90px; top:360px; width:30px;">](../../assets/cours/sdf/fiabilite/xxx.pdf){: .btn .btn}
+       style="position:absolute; left:90px; top:360px; width:30px;">](../../assets/cours/sdf/fiabilite/td2_enonce.ipynb){: .btn .btn}
 
 

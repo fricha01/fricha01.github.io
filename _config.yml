@@ -7,6 +7,8 @@ url: "http://localhost:4000" # utile pour le développement local
 
 remote_theme: "mmistakes/minimal-mistakes"
 
+minimal_mistakes_skin: "default"
+
 plugins:
   - jekyll-feed
   - jekyll-include-cache
