@@ -12,7 +12,7 @@ search: false
 .pdf-link {
   text-decoration: none;   /* pas de souligné */
   font-weight: bold;       /* texte en gras */
-  color: black;            /* texte noir */
+  color: black !important;            /* texte noir */
   display: inline-flex;    /* aligne texte et icône sur la même ligne */
   align-items: center;     /* vertical-align de l'image */
   gap: 6px;                /* espace entre texte et icône */
@@ -29,5 +29,9 @@ search: false
 .pdf-link i {
   color: #d32f2f;
   margin-right: 6px;
+}
+
+.pdf-link:hover {
+  color: #d32f2f;               /* rouge foncé au survol */
 }
 

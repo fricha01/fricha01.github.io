@@ -1311,8 +1311,10 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
   .page__hero-caption a { color: #000 !important; }
   /* Hide the following elements on print ========================================================================== */
   .masthead, .toc, .page__share, .page__related, .pagination, .ads, .page__footer, .page__comments-form, .author__avatar, .author__content, .author__urls-wrapper, .nav__list, .sidebar, .adsbygoogle { display: none !important; height: 1px !important; } }
-.pdf-link { text-decoration: none; /* pas de souligné */ font-weight: bold; /* texte en gras */ color: black; /* texte noir */ display: inline-flex; /* aligne texte et icône sur la même ligne */ align-items: center; /* vertical-align de l'image */ gap: 6px; /* espace entre texte et icône */ line-height: 0; /* espace vertical entre les lignes */ margin: 0; /* supprime marge par défaut */ }
+.pdf-link { text-decoration: none; /* pas de souligné */ font-weight: bold; /* texte en gras */ color: black !important; /* texte noir */ display: inline-flex; /* aligne texte et icône sur la même ligne */ align-items: center; /* vertical-align de l'image */ gap: 6px; /* espace entre texte et icône */ line-height: 0; /* espace vertical entre les lignes */ margin: 0; /* supprime marge par défaut */ }
 
 .pdf-link img { width: 32px; /* taille icône */ height: auto; margin-left: 0px; /* rapproche icône du texte */ }
 
 .pdf-link i { color: #d32f2f; margin-right: 6px; }
+
+.pdf-link:hover { color: #d32f2f; /* rouge foncé au survol */ }
