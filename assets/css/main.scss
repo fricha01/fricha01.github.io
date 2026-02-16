@@ -1,0 +1,33 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+
+.pdf-link {
+  text-decoration: none;   /* pas de souligné */
+  font-weight: bold;       /* texte en gras */
+  color: black;            /* texte noir */
+  display: inline-flex;    /* aligne texte et icône sur la même ligne */
+  align-items: center;     /* vertical-align de l'image */
+  gap: 6px;                /* espace entre texte et icône */
+  line-height: 0;        /* espace vertical entre les lignes */
+  margin: 0;               /* supprime marge par défaut */
+}
+
+.pdf-link img {
+  width: 32px;             /* taille icône */
+  height: auto;
+  margin-left: 0px;       /* rapproche icône du texte */
+}
+
+.pdf-link i {
+  color: #d32f2f;
+  margin-right: 6px;
+}
+

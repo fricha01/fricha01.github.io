@@ -11,20 +11,15 @@ sidebar:
 <div style="margin-bottom:30px;">
 </div>
 
-<strong> 👉 Analyse dynamique : </strong> [<img src="../../assets/images/pdf.png"
-       alt="PDF"
-       style="position:absolute; left:250px; top:134px; width:30px;">](../../assets/cours/sdf/ad/ad.pdf){: .btn .btn}
+[<i class="fa-solid fa-file-pdf"></i>Analyse dynamique](../../assets/cours/sdf/ad/ad.pdf){: .pdf-link}
 
 ## Travaux Dirigés
 
 <div style="margin-bottom:30px;">
 </div>
 
-<strong> 👉 TD1 : </strong> [<img src="../../assets/images/pdf.png"
-       alt="PDF"
-       style="position:absolute; left:90px; top:300px; width:30px;">](../../assets/cours/sdf/ad/td1_enonce.pdf){: .btn .btn}
+[<i class="fa-solid fa-file-pdf"></i>TD1 énoncé](../../assets/cours/sdf/ad/td1_enonce.pdf){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
+[<i class="fa-solid fa-file-pdf"></i>TD1 corrigé](../../assets/cours/sdf/ad/xxx){: .pdf-link}
 
-<strong> 👉 TD2 : </strong> [<img src="../../assets/images/pdf.png"
-       alt="PDF"
-       style="position:absolute; left:90px; top:360px; width:30px;">](../../assets/cours/sdf/ad/xxx.pdf){: .btn .btn}
-
+[<img src="../../assets/images/jupyter.png">TD2 énoncé](../../assets/cours/sdf/fiabilite/xxx){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="../../assets/images/jupyter.png">TD2 corrigé](../../assets/cours/sdf/fiabilite/xxx){: .pdf-link}

@@ -11,21 +11,17 @@ sidebar:
 <div style="margin-bottom:30px;">
 </div>
 
-<strong> 👉 Fiabilité système : </strong> [<img src="../../assets/images/pdf.png"
-       alt="PDF"
-       style="position:absolute; left:220px; top:134px; width:30px;">](../../assets/cours/sdf/fiabilite/fiabilite.pdf){: .btn .btn}
+[<i class="fa-solid fa-file-pdf"></i>Fiabilité système](../../assets/cours/sdf/fiabilite/fiabilite.pdf){: .pdf-link}
+
 
 ## Travaux Dirigés
 
 <div style="margin-bottom:30px;">
 </div>
 
-<strong> 👉 TD1 : </strong> [<img src="../../assets/images/pdf.png"
-       alt="PDF"
-       style="position:absolute; left:90px; top:300px; width:30px;">](../../assets/cours/sdf/fiabilite/td1_enonce.pdf){: .btn .btn}
 
-<strong> 👉 TD2 : </strong> [<img src="../../assets/images/pdf.png"
-       alt="PDF"
-       style="position:absolute; left:90px; top:360px; width:30px;">](../../assets/cours/sdf/fiabilite/td2_corrige.ipynb){: .btn .btn}
+[<i class="fa-solid fa-file-pdf"></i>TD1 énoncé](../../assets/cours/sdf/fiabilite/td1_enonce.pdf){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
+[<i class="fa-solid fa-file-pdf"></i>TD1 corrigé](../../assets/cours/sdf/fiabilite/td1_corrige.pdf){: .pdf-link}
 
-
+[<img src="../../assets/images/jupyter.png">TD2 énoncé](../../assets/cours/sdf/fiabilite/td2_enonce.ipynb){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="../../assets/images/jupyter.png">TD2 corrigé](../../assets/cours/sdf/fiabilite/td2_corrige.ipynb){: .pdf-link}
