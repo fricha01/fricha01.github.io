@@ -1317,4 +1317,4 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 
 .pdf-link i { color: #d32f2f; margin-right: 6px; }
 
-.pdf-link:hover { color: #d32f2f; /* rouge foncé au survol */ }
+.pdf-link:hover { color: #d32f2f !important; /* rouge foncé au survol */ }
