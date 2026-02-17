@@ -9,6 +9,8 @@ remote_theme: "mmistakes/minimal-mistakes"
 
 minimal_mistakes_skin: "default"
 
+markdown: kramdown
+
 plugins:
   - jekyll-feed
   - jekyll-include-cache

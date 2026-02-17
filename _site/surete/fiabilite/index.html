@@ -74,7 +74,7 @@
 href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   </head>
 
-  <body class="layout--single" dir="ltr">
+  <body class="layout--single wide" dir="ltr">
     <nav class="skip-links">
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
@@ -259,7 +259,24 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
 
       <section class="page__content" itemprop="text">
         
-        <h2 id="cours">Cours</h2>
+        <div style="margin-bottom:-30px;">
+</div>
+
+<h2 id="cours">Cours</h2>
+
+<div style="margin-bottom:-10px;">
+</div>
+
+<blockquote class="notice--info">
+  <p>💡 <strong>Contenu du cours</strong> :</p>
+  <ul>
+    <li>Introduction à la sureté de fonctionnement</li>
+    <li>Notion de système et performance</li>
+    <li>Bref panorama des méthodes d’analyse fonctionnelle et de sureté de fonctionnement</li>
+    <li>Fiabilité des systèmes non réparables (concepts, taux de défaillance, estimateurs moyens,…)</li>
+    <li>Diagrammes de fiabilité</li>
+  </ul>
+</blockquote>
 
 <div style="margin-bottom:30px;">
 </div>
@@ -267,6 +284,14 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
 <p><a href="/assets/cours/sdf/fiabilite/fiabilite.pdf" class="pdf-link"><i class="fa-solid fa-file-pdf"></i>Fiabilité système</a></p>
 
 <h2 id="travaux-dirigés">Travaux Dirigés</h2>
+
+<blockquote class="notice--success">
+  <p>💡 <strong>Contenu des TDs</strong> :</p>
+  <ul>
+    <li><strong>TD1</strong> : Exercices basiques en fiabilité des systèmes (systèmes simples, diagrammes de fiabilité)</li>
+    <li><strong>TD2</strong> : Etude de cas d’un système de sécurité d’une centrale nucléaire (notebook, python)</li>
+  </ul>
+</blockquote>
 
 <div style="margin-bottom:30px;">
 </div>
@@ -342,6 +367,23 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
 
 
 
+
+<script type="text/javascript" async
+	src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<script type="text/x-mathjax-config">
+   MathJax.Hub.Config({
+     extensions: ["tex2jax.js"],
+     jax: ["input/TeX", "output/HTML-CSS"],
+     tex2jax: {
+       inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+       displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+       processEscapes: true
+     },
+     "HTML-CSS": { availableFonts: ["TeX"] }
+   });
+</script>
 
   </body>
 </html>
