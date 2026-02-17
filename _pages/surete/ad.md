@@ -8,6 +8,10 @@ sidebar:
   nav: "cours"
 ---
 
+<img src="../../assets/images/ad.png"
+     alt="markov"
+     style="width:180px; position:absolute; top:-70px; left:700px;">
+
 <div style="margin-bottom:-30px;">
 </div>
 
