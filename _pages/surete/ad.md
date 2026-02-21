@@ -8,9 +8,9 @@ sidebar:
   nav: "cours"
 ---
 
-<img src="../../assets/images/ad.png"
+<img src="../../assets/images/markov.png"
      alt="markov"
-     style="width:180px; position:absolute; top:-70px; left:700px;">
+     style="width:145px; position:absolute; top:-75px; left:700px;">
 
 <div style="margin-bottom:-30px;">
 </div>
