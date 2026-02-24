@@ -48,5 +48,5 @@ sidebar:
 [<i class="fa-solid fa-file-pdf"></i>TD1 énoncé](../../assets/cours/sdf/ad/td1_enonce.pdf){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
 [<i class="fa-solid fa-file-pdf"></i>TD1 corrigé](../../assets/cours/sdf/ad/xxx){: .pdf-link}
 
-[<img src="../../assets/images/jupyter.png">TD2 énoncé](../../assets/cours/sdf/ad/td1_enonce.ipynb){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="../../assets/images/jupyter.png">TD2 énoncé](../../assets/cours/sdf/ad/td2_enonce.ipynb){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="../../assets/images/jupyter.png">TD2 corrigé](../../assets/cours/sdf/ad/xxx){: .pdf-link}
