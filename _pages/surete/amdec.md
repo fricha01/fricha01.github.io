@@ -30,7 +30,7 @@ sidebar:
 <div style="margin-bottom:30px;">
 </div>
 
-[<i class="fa-solid fa-file-pdf"></i>AMDEC](../../assets/cours/sdf/amdec/xxx.pdf){: .pdf-link}
+[<i class="fa-solid fa-file-pdf"></i>AMDEC](../../assets/cours/sdf/amdec/amdec.pdf){: .pdf-link}
 
 ## Travaux Dirigés
 
