@@ -44,7 +44,7 @@ sidebar:
 
 
 [<i class="fa-solid fa-file-pdf"></i>TD1 énoncé](../../assets/cours/sdf/amdec/td1.pdf){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
-[<i class="fa-solid fa-file-pdf"></i>TD1 corrigé](../../assets/cours/sdf/amdec/xxx.pdf){: .pdf-link}
+[<i class="fa-solid fa-file-pdf"></i>TD1 corrigé](../../assets/cours/sdf/amdec/td1_amdec.pdf){: .pdf-link}
 
 [<i class="fa-solid fa-file-pdf"></i>TD2 énoncé](../../assets/cours/sdf/amdec/td_pont_enonce.pdf){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
 [<i class="fa-solid fa-file-pdf"></i>TD2 corrigé](../../assets/cours/sdf/amdec/xxx.pdf){: .pdf-link}
