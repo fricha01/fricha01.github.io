@@ -1,7 +1,7 @@
 ---
 title: Introduction à la dynamique des incendies
 layout: single
-permalink: /incendie/fire/
+permalink: /physique/fire/
 sidebar:
   nav: "cours"
 

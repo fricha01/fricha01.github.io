@@ -36,11 +36,13 @@ cours:
       - title: "Fiabilité des systèmes"
         url: /surete/fiabilite/
         
-  - title: "Incendie"
-    url: /incendie/
+  - title: "Physique"
+    url: /physique/
     children:
       - title: "Introduction à la dynamique des incendies"
-        url: /incendie/fire/
+        url: /physique/fire/
+      - title: "Mécanique des fluides"
+        url: /physique/mecaflu/
 
   - title: "Qualité"
     url: /qualite/

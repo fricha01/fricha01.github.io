@@ -1,7 +1,7 @@
 ---
-title: "Incendie"
+title: "Physique"
 layout: single
-permalink: /incendie/
+permalink: /physique/
 sidebar:
   nav: "cours"
 ---
