@@ -8,30 +8,34 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-
 .pdf-link {
-  text-decoration: none;   /* pas de souligné */
-  font-weight: bold;       /* texte en gras */
-  color: black !important;            /* texte noir */
-  display: inline-flex;    /* aligne texte et icône sur la même ligne */
-  align-items: center;     /* vertical-align de l'image */
-  gap: 6px;                /* espace entre texte et icône */
-  line-height: 0;        /* espace vertical entre les lignes */
-  margin: 0;               /* supprime marge par défaut */
+  text-decoration: none;
+  font-weight: bold;
+  color: black !important;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  line-height: 1;
+  vertical-align: middle;   /* ← la ligne qui manquait */
+  margin: 0;
 }
 
 .pdf-link img {
-  width: 32px;             /* taille icône */
-  height: auto;
-  margin-left: 0px;       /* rapproche icône du texte */
+  height: 32px;
+  width: auto;
+  display: block;           /* supprime l'espace sous l'image */
 }
 
 .pdf-link i {
   color: #d32f2f;
-  margin-right: 6px;
+  font-size: 26px;          /* met l'icône à la hauteur de l'image */
 }
 
 .pdf-link:hover {
-  color: #d32f2f !important;               /* rouge foncé au survol */
+  color: #d32f2f !important;
+}
+
+.pdf-link + .pdf-link {
+  margin-left: 1.5em;       /* remplace la suite de &nbsp; */
 }
 
