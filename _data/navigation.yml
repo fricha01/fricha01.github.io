@@ -17,7 +17,7 @@ cours:
     children:
       - title: "Introduction au calcul de probabilités"
         url: /maths/proba/
-      - title: "Introduction à la statistiques"
+      - title: "Introduction à la statistique"
         url: /maths/stats/
       - title: "Machine learning"
         url: /maths/ml/

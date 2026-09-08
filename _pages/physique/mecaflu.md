@@ -30,23 +30,23 @@ sidebar:
 <div style="margin-bottom:30px;">
 </div>
 
-[<i class="fa-solid fa-file-pdf"></i>Mécanique des fluides](../../assets/cours/physique/mecaflu/mecaflu.pdf){: .pdf-link}
+[<i class="fa-solid fa-file-pdf"></i>Mécanique des fluides](../../assets/cours/physique/mecaflu/xxx.pdf){: .pdf-link}
 
 ## Travaux Dirigés
 
 > 💡 **Contenu des TDs** :
-> - **TD1** : 
->   - Exercices sur les notions abordées en cours
+> - **TD1** : Exercices sur les notions abordées en cours
+> - **TD2** : 
 > - **Docs** : Documents supplémentaires le cas échéant
 {: .notice--success }
 
 <div style="margin-bottom:30px;">
 </div>
 
-[<i class="fa-solid fa-file-pdf"></i>TD1 énoncé](../../assets/cours/physique/mecaflu/td1_enonce.pdf){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
-[<i class="fa-solid fa-file-pdf"></i>TD1 corrigé](../../assets/cours/physique/mecaflu/td1_corrige.pdf){: .pdf-link}
+[<i class="fa-solid fa-file-pdf"></i>TD1 énoncé](../../assets/cours/physique/mecaflu/xxx.pdf){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
+[<i class="fa-solid fa-file-pdf"></i>TD1 corrigé](../../assets/cours/physique/mecaflu/xxx.pdf){: .pdf-link}
 
 [<img src="../../assets/images/jupyter.png">TD2 énoncé](../../assets/cours/sdf/ad/xxx){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="../../assets/images/jupyter.png">TD2 corrigé](../../assets/cours/sdf/ad/xxx){: .pdf-link}
 
-[<i class="fa-solid fa-file-pdf"></i>Docs](../../assets/cours/sdf/ad/docs.pdf){: .pdf-link}
+[<i class="fa-solid fa-file-pdf"></i>Docs](../../assets/cours/sdf/ad/xxx.pdf){: .pdf-link}

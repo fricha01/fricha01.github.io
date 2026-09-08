@@ -1,30 +1,52 @@
 ---
-title: Introduction à la dynamique des incendies
+title: "Introduction à la dynamique des incendies"
 layout: single
 permalink: /physique/fire/
+classes: wide
+mathjax: true
 sidebar:
   nav: "cours"
-
-classes: wide
 ---
+
+<img src="../../assets/images/markov.png"
+     alt="markov"
+     style="width:145px; position:absolute; top:-75px; left:700px;">
+
+<div style="margin-bottom:-30px;">
+</div>
 
 ## Cours
 
+<div style="margin-bottom:-10px;">
+</div>
+
+> 💡 **Contenu du cours** :
+> - xxx
+> - xxx
+> - xxx
+> - xxx
+{: .notice--info }
+
 <div style="margin-bottom:30px;">
 </div>
 
-<strong> 👉 Dynamique des incendies : </strong> [<img src="../../assets/images/pdf.png"
-       alt="PDF"
-       style="position:absolute; left:310px; top:134px; width:30px;">](../../assets/cours/sdf/fiabilite/td1_enonce.pdf){: .btn .btn}
+[<i class="fa-solid fa-file-pdf"></i>Mécanique des fluides](../../assets/cours/physique/fire/xxx.pdf){: .pdf-link}
 
 ## Travaux Dirigés
 
+> 💡 **Contenu des TDs** :
+> - **TD1** : Exercices sur les notions abordées en cours
+> - **TD2** : 
+> - **Docs** : Documents supplémentaires le cas échéant
+{: .notice--success }
+
 <div style="margin-bottom:30px;">
 </div>
 
-<strong> 👉 TD1 : </strong> [<img src="../../assets/images/pdf.png"
-       alt="PDF"
-       style="position:absolute; left:97px; top:299px; width:30px;">](../../assets/cours/sdf/fiabilite/td1_enonce.pdf){: .btn .btn}
+[<i class="fa-solid fa-file-pdf"></i>TD1 énoncé](../../assets/cours/physique/fire/xxx.pdf){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
+[<i class="fa-solid fa-file-pdf"></i>TD1 corrigé](../../assets/cours/physique/fire/xxx.pdf){: .pdf-link}
 
+[<img src="../../assets/images/jupyter.png">TD2 énoncé](../../assets/cours/physique/firee/xxx){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="../../assets/images/jupyter.png">TD2 corrigé](../../assets/cours/physique/fire/xxx){: .pdf-link}
 
-
+[<i class="fa-solid fa-file-pdf"></i>Docs](../../assets/cours/physique/fire/xxx.pdf){: .pdf-link}

@@ -48,6 +48,3 @@ sidebar:
 [<img src="../../assets/images/jupyter.png" alt="">TD1 Enoncé](.../xxx.pdf){: .pdf-link}
 [<img src="../../assets/images/txt.png" alt="">TD1 Données](.../xxx.pdf){: .pdf-link}
 [<img src="../../assets/images/jupyter.png" alt="">TD1 Corrigé](.../xxx.pdf){: .pdf-link}
-
-<!--[<i class="fa-solid fa-file-pdf"></i>TD2 énoncé](../../assets/cours/qualite/msp/xxx.pdf){: .pdf-link}
-[<i class="fa-solid fa-file-pdf"></i>TD2 corrigé](../../assets/cours/qualite/msp/xxx.pdf){: .pdf-link}-->

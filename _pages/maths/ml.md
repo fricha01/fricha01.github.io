@@ -1,33 +1,51 @@
 ---
-title: "Introduction au machine learning"
+title: "Machine Learning"
 layout: single
 permalink: /maths/ml/
+classes: wide
 sidebar:
   nav: "cours"
 ---
 
+<img src="../../assets/images/fiabilite.png"
+     alt="Schéma Fiabilité"
+     style="width:150px; position:absolute; top:-75px; left:700px;">
+
+<div style="margin-bottom:-30px;">
+</div>
+
 ## Cours
+
+<div style="margin-bottom:-10px;">
+</div>
+
+> 💡 **Contenu du cours** :
+> - xxx
+> - xxx
+> - xxx
+> - xxx
+> - xxx
+{: .notice--info }
 
 <div style="margin-bottom:30px;">
 </div>
 
-<strong> 👉 Kmeans : </strong> [<img src="../../assets/images/pdf.png"
-       alt="PDF"
-       style="position:absolute; left:135px; top:134px; width:30px;">](../../assets/cours/maths/ml/xxx.pdf){: .btn .btn}
+[<i class="fa-solid fa-file-pdf"></i>ML](../../assets/cours/maths/ml/xxx.pdf){: .pdf-link}
 
 ## Travaux Dirigés
 
+> 💡 **Contenu des TDs** :
+> - **TD1** : xxx
+> - **TD2** : xxx
+{: .notice--success }
+
 <div style="margin-bottom:30px;">
 </div>
 
-<strong> 👉 TD1-Kmeans : </strong> [<img src="../../assets/images/jupyter.png"
-       alt="PDF"
-       style="position:absolute; left:180px; top:292px; width:40px;">](../../assets/cours/maths/ml/td1_enonce.ipynb){: .btn .btn}
 
-<strong> 👉 TD2-Kmeans : </strong> [<img src="../../assets/images/jupyter.png"
-       alt="PDF"
-       style="position:absolute; left:180px; top:355px; width:40px;">](../../assets/cours/maths/ml/td2_enonce.ipynb){: .btn .btn}
+[<i class="fa-solid fa-file-pdf"></i>TD1 énoncé](../../assets/cours/maths/ml/xxx.pdf){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
+[<i class="fa-solid fa-file-pdf"></i>TD1 corrigé](../../assets/cours/maths/ml/xxx.pdf){: .pdf-link}
 
-[<img src="../../assets/images/jupyter.png"
-       alt="PDF"
-       style="position:absolute; left:220px; top:292px; width:40px;">](../../assets/cours/maths/ml/td1_corrige.ipynb){: .btn .btn} 
+[<i class="fa-solid fa-file-pdf"></i>TD2 énoncé](../../assets/cours/maths/ml/xxx.pdf){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
+[<i class="fa-solid fa-file-pdf"></i>TD2 corrigé](../../assets/cours/maths/ml/xxx.pdf){: .pdf-link}
+
