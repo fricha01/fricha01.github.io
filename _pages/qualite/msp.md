@@ -30,7 +30,7 @@ sidebar:
 <div style="margin-bottom:30px;">
 </div>
 
-[<i class="fa-solid fa-file-pdf"></i>MSP](../../assets/cours/qualite/msp/xxx.pdf){: .pdf-link}
+[<i class="fa-solid fa-file-pdf"></i>MSP](../../assets/cours/qualite/msp/msp.pdf){: .pdf-link}
 
 [<img src="../../assets/images/md.png">MSP (théorie)](../../assets/cours/qualite/msp/xxx.pdf){: .pdf-link}
 
