@@ -45,6 +45,6 @@ sidebar:
 <div style="margin-bottom:30px;">
 </div>
 
-[<img src="../../assets/images/jupyter.png" alt="">TD1 Enoncé](.../TD1_enonce.ipynb){: .pdf-link}
-[<img src="../../assets/images/txt.png" alt="">TD1 Données](.../data.dat){: .pdf-link}
+[<img src="../../assets/images/jupyter.png" alt="">TD1 Enoncé](../../assets/cours/qualite/msp/TD1_enonce.ipynb){: .pdf-link}
+[<img src="../../assets/images/txt.png" alt="">TD1 Données](../../assets/cours/qualite/msp/data.dat){: .pdf-link}
 [<img src="../../assets/images/jupyter.png" alt="">TD1 Corrigé](.../xxx.pdf){: .pdf-link}
