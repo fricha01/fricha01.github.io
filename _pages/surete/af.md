@@ -30,7 +30,7 @@ sidebar:
 <div style="margin-bottom:30px;">
 </div>
 
-[<i class="fa-solid fa-file-pdf"></i>Analyse fonctionnelle](../../assets/cours/sdf/arbres/xxx.pdf){: .pdf-link}
+[<i class="fa-solid fa-file-pdf"></i>Analyse fonctionnelle](../../assets/cours/sdf/af/af.pdf){: .pdf-link}
 
 ## Travaux Dirigés
 
@@ -43,7 +43,7 @@ sidebar:
 </div>
 
 
-[<i class="fa-solid fa-file-pdf"></i>TD1 énoncé](../../assets/cours/sdf/af/xxx.pdf){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
+[<i class="fa-solid fa-file-pdf"></i>TD1 énoncé](../../assets/cours/sdf/af/td1_enonce.pdf){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
 [<i class="fa-solid fa-file-pdf"></i>TD1 corrigé](../../assets/cours/sdf/af/xxx.pdf){: .pdf-link}
 
 [<i class="fa-solid fa-file-pdf"></i>TD2 énoncé](../../assets/cours/sdf/af/xxx.pdf){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
