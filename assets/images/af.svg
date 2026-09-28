@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="216" height="120" viewBox="452 46 180 100" role="img">
+<title>Boite noire fonctionnelle</title>
+<desc>Clipart sur l'analyse fonctionnelle d'un systeme : une boite noire souriante surmontee d'un engrenage, avec un flux entrant a gauche et un flux sortant a droite.</desc>
+<g transform="rotate(30 540 66)"><rect x="536" y="53" width="8" height="10" rx="2" fill="#7A828C"/></g>
+<g transform="rotate(90 540 66)"><rect x="536" y="53" width="8" height="10" rx="2" fill="#7A828C"/></g>
+<g transform="rotate(150 540 66)"><rect x="536" y="53" width="8" height="10" rx="2" fill="#7A828C"/></g>
+<g transform="rotate(210 540 66)"><rect x="536" y="53" width="8" height="10" rx="2" fill="#7A828C"/></g>
+<g transform="rotate(270 540 66)"><rect x="536" y="53" width="8" height="10" rx="2" fill="#7A828C"/></g>
+<g transform="rotate(330 540 66)"><rect x="536" y="53" width="8" height="10" rx="2" fill="#7A828C"/></g>
+<circle cx="540" cy="66" r="12" fill="#C9CDD3" stroke="#7A828C" stroke-width="2.5"/>
+<circle cx="540" cy="66" r="4" fill="#8E959D"/>
+<line x1="460" y1="110" x2="492" y2="110" stroke="#3D8B6A" stroke-width="4" stroke-linecap="round"/>
+<path d="M492 101 L505 110 L492 119 Z" fill="#3D8B6A"/>
+<line x1="580" y1="110" x2="609" y2="110" stroke="#E3B23C" stroke-width="4" stroke-linecap="round"/>
+<path d="M609 101 L622 110 L609 119 Z" fill="#E3B23C"/>
+<rect x="505" y="84" width="70" height="54" rx="9" fill="#4A5560" stroke="#242C34" stroke-width="3"/>
+<circle cx="528" cy="105" r="7" fill="#FFFFFF" stroke="#242C34" stroke-width="1.5"/>
+<circle cx="552" cy="105" r="7" fill="#FFFFFF" stroke="#242C34" stroke-width="1.5"/>
+<circle cx="529" cy="107" r="3.2" fill="#242C34"/>
+<circle cx="553" cy="107" r="3.2" fill="#242C34"/>
+<path d="M528 121 q12 10 24 0" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+</svg>
