@@ -30,7 +30,7 @@ sidebar:
 </div>
 
 [<i class="fa-solid fa-file-pdf"></i>Analyse fonctionnelle](../../assets/cours/sdf/af/af.pdf){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
-[<i class="fa-solid fa-file-pdf"></i>Sûreté de Fonctionement (Intro)](../../assets/cours/sdf/af/sdf_intro.pdf){: .pdf-link}
+[<i class="fa-solid fa-file-pdf"></i>Sûreté de Fonctionnement (Intro)](../../assets/cours/sdf/af/sdf_intro.pdf){: .pdf-link}
 
 
 ## Travaux Dirigés
