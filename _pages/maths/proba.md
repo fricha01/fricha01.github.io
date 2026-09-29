@@ -30,7 +30,8 @@ sidebar:
 <div style="margin-bottom:30px;">
 </div>
 
-[<i class="fa-solid fa-file-pdf"></i>Probabilités](../../assets/cours/maths/proba/proba.pdf){: .pdf-link}
+[<i class="fa-solid fa-file-pdf"></i>Probabilités](../../assets/cours/maths/proba/proba.pdf){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
+[<i class="fa-solid fa-file-pdf"></i>Probabilités-1](../../assets/cours/maths/proba/proba_complements.pdf){: .pdf-link}
 
 ## Travaux Dirigés
 
@@ -44,8 +45,6 @@ sidebar:
 
 
 [<i class="fa-solid fa-file-pdf"></i>TD1 énoncé](../../assets/cours/maths/proba/td_proba_enonce.pdf){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
-[<i class="fa-solid fa-file-pdf"></i>TD1 corrigé](../../assets/cours/maths/proba/xxx.pdf){: .pdf-link}
+[<i class="fa-solid fa-file-pdf"></i>TD1 corrigé](../../assets/cours/maths/proba/td_proba.pdf){: .pdf-link}
 
-[<i class="fa-solid fa-file-pdf"></i>TD2 énoncé](../../assets/cours/maths/proba/xxx.pdf){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
-[<i class="fa-solid fa-file-pdf"></i>TD2 corrigé](../../assets/cours/maths/proba/xxx.pdf){: .pdf-link}
 
