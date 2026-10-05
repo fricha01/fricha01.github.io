@@ -30,7 +30,7 @@ sidebar:
 <div style="margin-bottom:30px;">
 </div>
 
-[<i class="fa-solid fa-file-pdf"></i>Arbres des défaillances](../../assets/cours/sdf/arbres/xxx.pdf){: .pdf-link}
+[<i class="fa-solid fa-file-pdf"></i>Arbres des défaillances](../../assets/cours/sdf/arbres/logique_syst.pdf){: .pdf-link}
 
 ## Travaux Dirigés
 
