@@ -32,7 +32,7 @@ sidebar:
 
 [<i class="fa-solid fa-file-pdf"></i>MSP](../../assets/cours/qualite/msp/msp.pdf){: .pdf-link}
 
-[<img src="../../assets/images/md.png">MSP (théorie)](../../assets/cours/qualite/msp/xxx.pdf){: .pdf-link}
+[<img src="../../assets/images/md.png">MSP (théorie)](../../assets/cours/qualite/msp/msp_theorie.pdf){: .pdf-link}
 
 
 ## Travaux Dirigés
@@ -47,4 +47,4 @@ sidebar:
 
 [<img src="../../assets/images/jupyter.png" alt="">TD1 Enoncé](../../assets/cours/qualite/msp/TD1_enonce.ipynb){: .pdf-link}
 [<img src="../../assets/images/txt.png" alt="">TD1 Données](../../assets/cours/qualite/msp/data.dat){: .pdf-link}
-[<img src="../../assets/images/jupyter.png" alt="">TD1 Corrigé](.../xxx.pdf){: .pdf-link}
+[<img src="../../assets/images/jupyter.png" alt="">TD1 Corrigé](../../assets/cours/qualite/msp/TD1_corrige.ipynb){: .pdf-link}
