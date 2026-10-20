@@ -1,5 +1,5 @@
 ---
-title: "Introduction à l'analyse statistiques"
+title: "Introduction à l'analyse statistique"
 layout: single
 permalink: /maths/stats/
 classes: wide
@@ -7,9 +7,9 @@ sidebar:
   nav: "cours"
 ---
 
-<img src="../../assets/images/fiabilite.png"
+<img src="../../assets/images/boite-a-moustaches-statistiques.png"
      alt="Schéma Fiabilité"
-     style="width:150px; position:absolute; top:-75px; left:700px;">
+     style="width:150px; position:absolute; top:-50px; left:700px;">
 
 <div style="margin-bottom:-30px;">
 </div>

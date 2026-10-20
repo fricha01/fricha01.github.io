@@ -7,9 +7,9 @@ sidebar:
   nav: "cours"
 ---
 
-<img src="../../assets/images/fiabilite.png"
+<img src="../../assets/images/maillon-faible-fiabilite.png"
      alt="Schéma Fiabilité"
-     style="width:150px; position:absolute; top:-75px; left:700px;">
+     style="width:150px; position:absolute; top:-60px; left:700px;">
 
 <div style="margin-bottom:-30px;">
 </div>

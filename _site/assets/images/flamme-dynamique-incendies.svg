@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="144" viewBox="98 50 84 108" role="img">
+<title>Flamme souriante</title>
+<desc>Clipart sur le theme de la dynamique des incendies : une flamme souriante a deux zones, enveloppe orange et coeur jaune.</desc>
+<path d="M140 56 C160 82 176 96 176 116 C176 139 160 152 140 152 C120 152 104 139 104 116 C104 96 120 82 140 56 Z" fill="#E8703A" stroke="#A8411A" stroke-width="3" stroke-linejoin="round"/>
+<path d="M140 86 C152 102 162 110 162 122 C162 137 152 146 140 146 C128 146 118 137 118 122 C118 110 128 102 140 86 Z" fill="#F0CC72" stroke="#D9A23C" stroke-width="2"/>
+<circle cx="132" cy="116" r="6" fill="#FFFFFF" stroke="#A8411A" stroke-width="1.4"/>
+<circle cx="148" cy="116" r="6" fill="#FFFFFF" stroke="#A8411A" stroke-width="1.4"/>
+<circle cx="133" cy="118" r="2.8" fill="#5E2510"/>
+<circle cx="149" cy="118" r="2.8" fill="#5E2510"/>
+<path d="M131 130 q9 8 18 0" fill="none" stroke="#8F3B14" stroke-width="2.8" stroke-linecap="round"/>
+</svg>

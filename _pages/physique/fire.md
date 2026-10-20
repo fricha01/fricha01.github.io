@@ -8,9 +8,9 @@ sidebar:
   nav: "cours"
 ---
 
-<img src="../../assets/images/markov.png"
+<img src="../../assets/images/flamme-dynamique-incendies.png"
      alt="markov"
-     style="width:145px; position:absolute; top:-75px; left:700px;">
+     style="width:70px; position:absolute; top:-55px; left:800px;">
 
 <div style="margin-bottom:-30px;">
 </div>
@@ -21,10 +21,10 @@ sidebar:
 </div>
 
 > 💡 **Contenu du cours** :
-> - xxx
-> - xxx
-> - xxx
-> - xxx
+> - Flamme de diffusion vs prémélangée
+> - Stoechiometrie et fraction de mélange
+> - Structure de flamme (Burke Schumann)
+> - Turbulence
 {: .notice--info }
 
 <div style="margin-bottom:30px;">

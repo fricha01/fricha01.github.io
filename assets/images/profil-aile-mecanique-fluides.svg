@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="205" height="130" viewBox="63 46 158 100" role="img">
+<title>Profil d'aile souriant</title>
+<desc>Clipart sur le theme de la mecanique des fluides : un profil d'aile souriant entoure de quatre lignes de courant qui se separent au bord d'attaque.</desc>
+<path d="M68 60 C108 48 158 50 216 58" fill="none" stroke="#9AA2AB" stroke-width="2" stroke-linecap="round"/>
+<path d="M68 74 C108 60 158 62 216 72" fill="none" stroke="#9AA2AB" stroke-width="2" stroke-linecap="round"/>
+<path d="M68 122 C108 132 158 130 216 120" fill="none" stroke="#9AA2AB" stroke-width="2" stroke-linecap="round"/>
+<path d="M68 136 C108 144 158 142 216 132" fill="none" stroke="#9AA2AB" stroke-width="2" stroke-linecap="round"/>
+<path d="M86 106 C96 86 132 78 166 84 C188 88 200 100 206 110 C180 110 130 112 104 110 C94 109 88 108 86 106 Z" fill="#AFC9E8" stroke="#3B6AA0" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="124" cy="92" r="6" fill="#FFFFFF" stroke="#3B6AA0" stroke-width="1.4"/>
+<circle cx="144" cy="92" r="6" fill="#FFFFFF" stroke="#3B6AA0" stroke-width="1.4"/>
+<circle cx="125" cy="94" r="2.8" fill="#1F3C5E"/>
+<circle cx="145" cy="94" r="2.8" fill="#1F3C5E"/>
+<path d="M123 102 q9 6 18 0" fill="none" stroke="#1F3C5E" stroke-width="2.6" stroke-linecap="round"/>
+</svg>

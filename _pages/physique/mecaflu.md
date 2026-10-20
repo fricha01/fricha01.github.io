@@ -8,9 +8,9 @@ sidebar:
   nav: "cours"
 ---
 
-<img src="../../assets/images/markov.png"
+<img src="../../assets/images/profil-aile-mecanique-fluides.png"
      alt="markov"
-     style="width:145px; position:absolute; top:-75px; left:700px;">
+     style="width:145px; position:absolute; top:-60px; left:700px;">
 
 <div style="margin-bottom:-30px;">
 </div>

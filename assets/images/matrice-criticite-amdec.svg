@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="139" viewBox="328 38 110 118" role="img">
+<title>Matrice de criticite souriante</title>
+<desc>Clipart sur le theme de la methode AMDEC : une matrice de criticite a quatre cases, du vert au rouge, dont la case la plus critique sourit, avec les axes gravite et occurrence.</desc>
+<rect x="342" y="58" width="38" height="38" rx="4" fill="#E3B23C" stroke="#9C7717" stroke-width="2.5"/>
+<rect x="342" y="100" width="38" height="38" rx="4" fill="#5FA88A" stroke="#33705A" stroke-width="2.5"/>
+<rect x="384" y="100" width="38" height="38" rx="4" fill="#E3B23C" stroke="#9C7717" stroke-width="2.5"/>
+<rect x="384" y="58" width="38" height="38" rx="4" fill="#D94A4A" stroke="#8F2323" stroke-width="3"/>
+<circle cx="394" cy="72" r="6" fill="#FFFFFF" stroke="#8F2323" stroke-width="1.5"/>
+<circle cx="412" cy="72" r="6" fill="#FFFFFF" stroke="#8F2323" stroke-width="1.5"/>
+<circle cx="395" cy="74" r="2.8" fill="#5E1515"/>
+<circle cx="413" cy="74" r="2.8" fill="#5E1515"/>
+<path d="M393 84 q10 7 20 0" fill="none" stroke="#FFFFFF" stroke-width="2.8" stroke-linecap="round"/>
+<line x1="336" y1="144" x2="336" y2="52" stroke="#7A828C" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M330 54 L336 42 L342 54 Z" fill="#7A828C"/>
+<line x1="334" y1="146" x2="424" y2="146" stroke="#7A828C" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M422 140 L434 146 L422 152 Z" fill="#7A828C"/>
+</svg>

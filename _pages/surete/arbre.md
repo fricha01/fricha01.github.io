@@ -7,9 +7,9 @@ sidebar:
   nav: "cours"
 ---
 
-<img src="../../assets/images/fiabilite.png"
+<img src="../../assets/images/porte-ou-arbre-defaillances.png"
      alt="Schéma Fiabilité"
-     style="width:150px; position:absolute; top:-75px; left:700px;">
+     style="width:80px; position:absolute; top:-60px; left:800px;">
 
 <div style="margin-bottom:-30px;">
 </div>
