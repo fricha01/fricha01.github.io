@@ -46,10 +46,10 @@ sidebar:
 
 
 [<i class="fa-solid fa-file-pdf"></i>TD1 énoncé](../../assets/cours/sdf/af/td1_enonce.pdf){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
-[<i class="fa-solid fa-file-pdf"></i>TD1 corrigé](../../assets/cours/sdf/af/xxx.pdf){: .pdf-link}
+[<i class="fa-solid fa-file-pdf"></i>TD1 corrigé](../../assets/cours/sdf/af/td1_corrige.pdf){: .pdf-link}
 
 [<i class="fa-solid fa-file-pdf"></i>TD2 énoncé](../../assets/cours/sdf/af/td2_enonce.pdf){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
-[<i class="fa-solid fa-file-pdf"></i>TD2 corrigé](../../assets/cours/sdf/af/xxx.pdf){: .pdf-link}
+[<i class="fa-solid fa-file-pdf"></i>TD2 corrigé](../../assets/cours/sdf/af/td2_corrige.pdf){: .pdf-link}
 
 [<i class="fa-solid fa-file-pdf"></i>TD3 énoncé](../../assets/cours/sdf/af/td3_enonce.pdf){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
-[<i class="fa-solid fa-file-pdf"></i>TD3 corrigé](../../assets/cours/sdf/af/xxx.pdf){: .pdf-link}
+[<i class="fa-solid fa-file-pdf"></i>TD3 corrigé](../../assets/cours/sdf/af/td3_corrige.pdf){: .pdf-link}
