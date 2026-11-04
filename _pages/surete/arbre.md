@@ -49,3 +49,5 @@ sidebar:
 [<i class="fa-solid fa-file-pdf"></i>TD2 énoncé](../../assets/cours/sdf/arbres/td2_enonce.pdf){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
 [<i class="fa-solid fa-file-pdf"></i>TD2 corrigé](../../assets/cours/sdf/arbres/xxx.pdf){: .pdf-link}
 
+[<i class="fa-solid fa-file-pdf"></i>TD3 énoncé](../../assets/cours/sdf/arbres/td3_enonce.pdf){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
+[<i class="fa-solid fa-file-pdf"></i>TD3 corrigé](../../assets/cours/sdf/arbres/xxx.pdf){: .pdf-link}
