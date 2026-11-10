@@ -44,9 +44,9 @@ sidebar:
 </div>
 
 [<i class="fa-solid fa-file-pdf"></i>TD1 énoncé](../../assets/cours/physique/fire/TD1_stoechiometrie_enonce.pdf){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
-[<i class="fa-solid fa-file-pdf"></i>TD1 corrigé](../../assets/cours/physique/fire/xxx.pdf){: .pdf-link}
+[<i class="fa-solid fa-file-pdf"></i>TD1 corrigé](../../assets/cours/physique/fire/TD1_stoechiometrie_corrige.pdf){: .pdf-link}
 
-[<i class="fa-solid fa-file-pdf"></i>TD2 énoncé](../../assets/cours/physique/fire/TD1_stoechiometrie_enonce.pdf){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
+[<i class="fa-solid fa-file-pdf"></i>TD2 énoncé](../../assets/cours/physique/fire/TD2_shvab_zeldovich_enonce.pdf){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
 [<i class="fa-solid fa-file-pdf"></i>TD2 corrigé](../../assets/cours/physique/fire/xxx.pdf){: .pdf-link}
 
 [<img src="../../assets/images/jupyter.png">TD3 énoncé](../../assets/cours/physique/fire/xxx){: .pdf-link}&nbsp;&nbsp;&nbsp;&nbsp;
